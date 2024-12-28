@@ -1,5 +1,5 @@
 # Data Engineering
-This repository highlights specific projects from a graduate data engineering course at Duke University.
+This repository highlights specific projects from a graduate data engineering course at Duke University, taught by Noah Gift.
 
 1. Descriptive statistics and data visualizations in Python: https://github.com/nogibjj/Rishika_Randev_Individual_1
 2. ETL and complex queries using Databricks: https://github.com/nogibjj/Rishika_Randev_Mini_6
